@@ -31,3 +31,11 @@ function solution(str){
   return result;
 }
 ```
+## Experience
+Will be completed
+
+## Education
+* Faculty of Physics of the Belarusian State University
+
+## English level
+**Level:** A2
